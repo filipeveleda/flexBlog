@@ -308,7 +308,19 @@ body, h1, h2, p, ul, li, a{
   border: 0px;
   padding: 15px 10px;
 }
+/* footer */
 
+.footer {
+  height: 200px;
+  display: flex;
+  background: #2c70ff;
+  align-items: center;
+  justify-content: center;
+}
+footer p{
+  font-size: 2.25rem;
+  color: #122ab2;
+}
 
 
 
