@@ -4,24 +4,14 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/filipeveleda/flexBlog">
 
 
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/filipeveleda/flexBlog/commits/">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/filipeveleda/flexBlog">
   </a>
     
-   <!-- <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen"> -->
-   <a href="https://github.com/tgmarinho/README-ecoleta/stargazers">
+   <a href="https://github.com/filipeveleda/flexBlog">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/filipeveleda/flexBlog">
   </a>
 
-  <!-- <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Rocketseat-%237519C1">
-  </a> -->
-  
-  <!-- <a href="https://blog.rocketseat.com.br/">
-    <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
-  </a> -->
-  
- 
 </p>  
  
 # flexBlog
